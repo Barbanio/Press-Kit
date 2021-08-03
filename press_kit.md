@@ -3,7 +3,7 @@
 
 # **KIT**
 
-![](Aspose.Words.462d5679-addf-4059-b832-b42231ef3d59.002.png)
+![](https://raw.githubusercontent.com/Barbanio/Press-Kit/main/picture_press_kit.webp)
 
 ## **INDEX:**
 
