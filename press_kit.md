@@ -56,13 +56,13 @@ In doing so, it will be achieved:
 
 - To rely on an asynchronous decision-making process that empowers the people who "work", not the companies who "pay". 
 
-In other words, it will  give equal power to individual and corporate contributors [[checkout here for more information\]](https://www.asyncapi.com/blog/governance-motivation).
+In other words, it will  give equal power to individual and corporate contributors  [[checkout here for more information](https://www.asyncapi.com/blog/governance-motivation)].
 
 ### **1.2. AsyncAPI, in numbers**
 
 By 2023, the community that supports the initiative is expected to **multiply its size by four**. After that, the next goal is to grow **400% till 2026** [[to know more check the AsyncAPI Road Map](https://www.asyncapi.com/roadmap)]. These goals can look ambitious, but many other numbers could also have been felt as impossible to reach not so long ago. 
 
-Taking the example of the years 2019 and 2020, the unique users visits in the AsyncAPI website climbed from 27.090 to 80.399 (53.309 new ones), and the number of sessions jumped from 50.405 to 142.229 (an increase of 91.824 sessions). Also in just 12 months, the unique pageviews climbed from 143.509 to 348.131, an increase of more than 205.172 pageviews. Great news for AsyncAPI, as the merger with the Linux Foundation and the partnership with Postman, have not yet been reflected in these numbers, as it was sealed subsequent to this data collection [[checkout here for more\]](https://www.asyncapi.com/blog/2020-summary). The next data will be even better.
+Taking the example of the years 2019 and 2020, the unique users visits in the AsyncAPI website climbed from 27.090 to 80.399 (53.309 new ones), and the number of sessions jumped from 50.405 to 142.229 (an increase of 91.824 sessions). Also in just 12 months, the unique pageviews climbed from 143.509 to 348.131, an increase of more than 205.172 pageviews. Great news for AsyncAPI, as the merger with the Linux Foundation and the partnership with Postman, have not yet been reflected in these numbers, as it was sealed subsequent to this data collection [[checkout here for more](https://www.asyncapi.com/blog/2020-summary)]. The next data will be even better.
 
 Also, the increase of traffic and users in social networks talks by itself. 
 
