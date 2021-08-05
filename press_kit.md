@@ -1,7 +1,5 @@
 ﻿
-# **PRESS**
-
-# **KIT**
+# **PRESS KIT**
 
 ![](https://raw.githubusercontent.com/Barbanio/Press-Kit/main/picture_press_kit.webp)
 
@@ -73,15 +71,14 @@ Also, the increase of traffic and users in social networks talks by itself.
 - On Twitter, the number of followers increased by 257%.
 - On GitHub, the generator downloads increased by 62%.
 
-## **2. HISTORY OF THE** 
-## **PROJECT**
+## **2. HISTORY OF THE PROJECT** 
 
 It all starts with a vision, and AsyncAPI it’s not an exception. The initiative was born in 2016 as a side project of Fran Mendez while he was working at Hitch (API Changelog). After identifying the lack of tools for standardized message-based specification systems, this young engineer felt that there was a missing piece and started working on the specification.
 
 He formulated an "API theory", so to speak, essentially, with as many interactive API types as RESTful web services, GraphQL, and message-based architectures. AsyncAPI would serve as a common unifying language for the various formats, protocols, and specifications, enabling standardized communication in the message-based system.
 
-## **3. VALUES OF** 
-## **ASYNCAPI** 
+## **3. VALUES OF ASYNCAPI** 
+
 \- **Innovative**. There is no other specification that covers the messaging needs in the event-driven architecture that AsyncAPI is covering. What it tries to do is to integrate with the existing tools and remove walls for communication. 
 
 \- **Free**. It’s a free software project: it seeks the user's liberty by offering a tool that can be used and enhanced without restrictions. 
@@ -95,8 +92,7 @@ He formulated an "API theory", so to speak, essentially, with as many interactiv
 \- **Horizontal and participative.** Its structure is based on horizontality; most of the decisions are defined as a group, including the Community. Anyone can submit improvements, lines of action, or elements to be taken into account to strengthen AsyncAPI.
 
 \- **User-friendly**. AsyncAPI bets for a seamless API development experience.  Users should be able to create their first API within minutes without prior knowledge of AsyncAPI. It has to be natural, simple, intuitive. 
-## **4. BRANDS AND COMPANIES** 
-## **USING ASYNCAPI**
+## **4. BRANDS AND COMPANIES USING ASYNCAPI**
 
 The total number of companies and projects using AsyncAPI as well as their identity is impossible to know. So far, we are aware that the following ones operate with it.
 
@@ -124,8 +120,7 @@ Open Collective is an online crowdfunding platform for open and transparent comm
 
 GitHub is a project management platform that also has the option to manage part of the financing. It is also important that the company making the largest contribution to the initiative is Postman.
 
-## **6. CONTACT** 
-## **DETAILS**
+## **6. CONTACT DETAILS**
 
 - **Press & communications info: press@asyncapi.io**
 
@@ -148,8 +143,7 @@ GitHub is a project management platform that also has the option to manage part 
   - For Outlook users we exported the calendar to an [ICS file](https://github.com/asyncapi/asyncapi/files/4181037/asyncapi-calendar-outlook-ics-file.zip).
   - To get invited to the mailbox, just add yourself to the mailing list on the [website](https://www.asyncapi.com/).
 
-## **7. FREQUENTLY** 
-## **ASKED QUESTIONS**
+## **7. FREQUENTLY ASKED QUESTIONS**
 
 - **What is the goal of the project?**
 
