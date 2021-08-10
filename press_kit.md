@@ -23,7 +23,7 @@
 
 **[7. Frequently asked questions](#_heading=h.9m5tif8t2hnq)**
 
-## **1. ASYNCAPI**
+## AsyncAPI
 The initiative is an open source specification that has developed an asynchronous messaging language within the event-driven architecture (EDA). This tool enables the standardization of machine-to-machine communication. **The main aim of the project is to make asynchronous APIs as successful and mature as REST APIs.** This programming system covers a hitherto unexplored field. There is no direct competition as it is inserted in a new and emerging market.
 
 The project is based on transparency, teamwork and passion, cooperating with other free software initiatives. Also, AsyncAPI can't be understood without the talent and the contributions of its community. It has been crucial for getting to this point.
