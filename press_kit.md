@@ -50,7 +50,7 @@ In doing so, it will be achieved:
 
 - To ensure an open governance model where no single company dominates the specification and its tools.
 
- - To make the project as democratic as possible.
+- To make the project as democratic as possible.
 
 - To rely on an asynchronous decision-making process that empowers the people who "work", not the companies who "pay". 
 
