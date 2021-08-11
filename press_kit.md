@@ -13,7 +13,7 @@
 
 3. [Values of AsyncAPI](#values-of-asyncapi)
 
-4. [Brands and companies using Asyncapi](#brands-and-companies-using-asyncAPI)
+4. [Brands and companies using AsyncAPI](#brands-and-companies-using-asyncapi)
 
 5. [Funding](#funding)
 
