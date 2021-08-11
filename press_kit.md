@@ -1,29 +1,27 @@
 ﻿
-# **PRESS KIT**
+# Press Kit
 
-![](https://raw.githubusercontent.com/Barbanio/Press-Kit/main/picture_press_kit.webp)
+## Index:
 
-## **INDEX:**
+1. [AsyncAPI](#asyncapi)
 
-**[1. AsyncAPI](#_heading=h.40s9q7rdmzv1)**
+1.1. [Open governance model](#open-governance-model) 
 
-[1.1. Open governance model](#_heading=h.m14n0k7zs2qm) 
+1.2. [AsyncAPI, in numbers](#asyncapi-in-numbers) 
 
-[1.2. AsyncAPI, in numbers](#_heading=h.f8xlcwy3vi6) 
+2. [History of the project](#history-of-the-project)
 
-**[2. History of the project](#_heading=h.5yg403h4t8gi)**
+3. [Values of AsyncAPI](#values-of-asyncapi)
 
-**[3. Values of AsyncAPI](#_heading=h.4me7screlap)**
+4. [Brands and companies using Asyncapi](#brands-and-companies-using-asyncAPI)
 
-**[4. Brands and companies using AsyncAPI](#_heading=h.xxo7nwvlczto)**
+5. [Funding](#funding)
 
-**[5. Funding](#_heading=h.bx8fkbp32vqc)**
+6. [Contact details](#contact-details)
 
-**[6. Contact details](#_heading=h.7oacawrz9cjj)**
+7. [Frequently asked questions](#frequently-asked-questions)
 
-**[7. Frequently asked questions](#_heading=h.9m5tif8t2hnq)**
-
-## **1. ASYNCAPI**
+## AsyncAPI
 The initiative is an open source specification that has developed an asynchronous messaging language within the event-driven architecture (EDA). This tool enables the standardization of machine-to-machine communication. **The main aim of the project is to make asynchronous APIs as successful and mature as REST APIs.** This programming system covers a hitherto unexplored field. There is no direct competition as it is inserted in a new and emerging market.
 
 The project is based on transparency, teamwork and passion, cooperating with other free software initiatives. Also, AsyncAPI can't be understood without the talent and the contributions of its community. It has been crucial for getting to this point.
@@ -40,7 +38,7 @@ The next step has been to host the project on a neutral foundation to ensure the
 
 However, none of the other goals are possible without the support of a large community. AsyncAPI is and must remain a community-driven initiative.
 
-### **1.1. Open governance model**
+### Open governance model
 
 Free software gives users the freedom to apply, modify, and continue in the chain by distributing copies to help others and by, in this case, disseminating modified versions of the specification. 
 
@@ -56,7 +54,7 @@ In doing so, it will be achieved:
 
 In other words, it will  give equal power to individual and corporate contributors  [[checkout here for more information](https://www.asyncapi.com/blog/governance-motivation)].
 
-### **1.2. AsyncAPI, in numbers**
+### AsyncAPI, in numbers
 
 By 2023, the community that supports the initiative is expected to **multiply its size by four**. After that, the next goal is to grow **400% till 2026** [[to know more check the AsyncAPI Road Map](https://www.asyncapi.com/roadmap)]. These goals can look ambitious, but many other numbers could also have been felt as impossible to reach not so long ago. 
 
@@ -71,13 +69,13 @@ Also, the increase of traffic and users in social networks talks by itself.
 - On Twitter, the number of followers increased by 257%.
 - On GitHub, the generator downloads increased by 62%.
 
-## **2. HISTORY OF THE PROJECT** 
+## History of the project 
 
 It all starts with a vision, and AsyncAPI it’s not an exception. The initiative was born in 2016 as a side project of Fran Mendez while he was working at Hitch (API Changelog). After identifying the lack of tools for standardized message-based specification systems, this young engineer felt that there was a missing piece and started working on the specification.
 
 He formulated an "API theory", so to speak, essentially, with as many interactive API types as RESTful web services, GraphQL, and message-based architectures. AsyncAPI would serve as a common unifying language for the various formats, protocols, and specifications, enabling standardized communication in the message-based system.
 
-## **3. VALUES OF ASYNCAPI** 
+## Values of AsyncAPI
 
 \- **Innovative**. There is no other specification that covers the messaging needs in the event-driven architecture that AsyncAPI is covering. What it tries to do is to integrate with the existing tools and remove walls for communication. 
 
@@ -92,7 +90,7 @@ He formulated an "API theory", so to speak, essentially, with as many interactiv
 \- **Horizontal and participative.** Its structure is based on horizontality; most of the decisions are defined as a group, including the Community. Anyone can submit improvements, lines of action, or elements to be taken into account to strengthen AsyncAPI.
 
 \- **User-friendly**. AsyncAPI bets for a seamless API development experience.  Users should be able to create their first API within minutes without prior knowledge of AsyncAPI. It has to be natural, simple, intuitive. 
-## **4. BRANDS AND COMPANIES USING ASYNCAPI**
+## Brands and companies using AsyncAPI
 
 The total number of companies and projects using AsyncAPI as well as their identity is impossible to know. So far, we are aware that the following ones operate with it.
 
@@ -108,7 +106,7 @@ The total number of companies and projects using AsyncAPI as well as their ident
 
 - [**IQVIA**](https://www.iqvia.com/): Company providing services for the combined health information technology and clinical research industries. It employs more than 58.000 people in over 100 countries
 
-## **5. FUNDING**
+## Funding
 
 AsyncAPI is an open source project and is therefore funded by talent and voluntary contributions. It relies on the expertise and dedication of the **Community developers** who believe in the project and contribute to its evolution. 
 
@@ -120,7 +118,7 @@ Open Collective is an online crowdfunding platform for open and transparent comm
 
 GitHub is a project management platform that also has the option to manage part of the financing. It is also important that the company making the largest contribution to the initiative is Postman.
 
-## **6. CONTACT DETAILS**
+## Contact details
 
 - **Press & communications info: press@asyncapi.io**
 
@@ -143,7 +141,7 @@ GitHub is a project management platform that also has the option to manage part 
   - For Outlook users we exported the calendar to an [ICS file](https://github.com/asyncapi/asyncapi/files/4181037/asyncapi-calendar-outlook-ics-file.zip).
   - To get invited to the mailbox, just add yourself to the mailing list on the [website](https://www.asyncapi.com/).
 
-## **7. FREQUENTLY ASKED QUESTIONS**
+## Frequently asked questions
 
 - **What is the goal of the project?**
 
