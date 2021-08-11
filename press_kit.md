@@ -4,23 +4,14 @@
 ## Index:
 
 1. [AsyncAPI](#asyncapi)
-
-1.1. [Open governance model](#open-governance-model) 
-
-1.2. [AsyncAPI, in numbers](#asyncapi-in-numbers) 
-
+    - [Open governance model](#open-governance-model) 
+    - [AsyncAPI, in numbers](#asyncapi-in-numbers) 
 2. [History of the project](#history-of-the-project)
-
 3. [Values of AsyncAPI](#values-of-asyncapi)
-
-4. [Brands and companies using AsyncAPI](#brands-and-companies-using-async)
-
+4. [Brands and companies using AsyncAPI](#brands-and-companies-using-asyncapi)
 5. [Funding](#funding)
-
 6. [Contact details](#contact-details)
-
 7. [Frequently asked questions](#frequently-asked-questions)
-
 ## AsyncAPI
 The initiative is an open source specification that has developed an asynchronous messaging language within the event-driven architecture (EDA). This tool enables the standardization of machine-to-machine communication. **The main aim of the project is to make asynchronous APIs as successful and mature as REST APIs.** This programming system covers a hitherto unexplored field. There is no direct competition as it is inserted in a new and emerging market.
 
