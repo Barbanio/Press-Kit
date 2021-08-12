@@ -38,9 +38,7 @@ The above mentioned partnership with Postman speeded up the work in the initiati
 In doing so, it will be achieved:
 
 - To ensure an open governance model where no single company dominates the specification and its tools.
-
- - To make the project as democratic as possible.
-
+- To make the project as democratic as possible.
 - To rely on an asynchronous decision-making process that empowers the people who "work", not the companies who "pay". 
 
 In other words, it will  give equal power to individual and corporate contributors  [[checkout here for more information](https://www.asyncapi.com/blog/governance-motivation)].
@@ -68,33 +66,22 @@ He formulated an "API theory", so to speak, essentially, with as many interactiv
 
 ## Values of AsyncAPI
 
-\- **Innovative**. There is no other specification that covers the messaging needs in the event-driven architecture that AsyncAPI is covering. What it tries to do is to integrate with the existing tools and remove walls for communication. 
-
-\- **Free**. It’s a free software project: it seeks the user's liberty by offering a tool that can be used and enhanced without restrictions. 
-
-\- **Open**. As it's an open-source project and not a company or a product, it works in a change of paradigm: it does not sell anything, it moves away from fierce competition and bets for cooperation. 
-
-\- **Multicultural and inclusive.** It’s an initiative with an international and multicultural vision. It’s organic, always in constant mutation and change. It also actively demands compliance with human rights, respect for racial, sexual, and cultural diversity equality. And, of course, the equality between women and men.
-
-\- **Transparent.** The initiative it’s built on transparency, being one of the main values of AsyncAPI, both internally and externally including its financing. All the relevant data of the project is public. The tasks that are being and will be worked on are public and participatory through Slack and GitHub. 
-
-\- **Horizontal and participative.** Its structure is based on horizontality; most of the decisions are defined as a group, including the Community. Anyone can submit improvements, lines of action, or elements to be taken into account to strengthen AsyncAPI.
-
-\- **User-friendly**. AsyncAPI bets for a seamless API development experience.  Users should be able to create their first API within minutes without prior knowledge of AsyncAPI. It has to be natural, simple, intuitive. 
+- **Innovative**. There is no other specification that covers the messaging needs in the event-driven architecture that AsyncAPI is covering. What it tries to do is to integrate with the existing tools and remove walls for communication. 
+- **Free**. It’s a free software project: it seeks the user's liberty by offering a tool that can be used and enhanced without restrictions. 
+- **Open**. As it's an open-source project and not a company or a product, it works in a change of paradigm: it does not sell anything, it moves away from fierce competition and bets for cooperation. 
+- **Multicultural and inclusive.** It’s an initiative with an international and multicultural vision. It’s organic, always in constant mutation and change. It also actively demands compliance with human rights, respect for racial, sexual, and cultural diversity equality. And, of course, the equality between women and men.
+- **Transparent.** The initiative it’s built on transparency, being one of the main values of AsyncAPI, both internally and externally including its financing. All the relevant data of the project is public. The tasks that are being and will be worked on are public and participatory through Slack and GitHub. 
+- **Horizontal and participative.** Its structure is based on horizontality; most of the decisions are defined as a group, including the Community. Anyone can submit improvements, lines of action, or elements to be taken into account to strengthen AsyncAPI.
+- **User-friendly**. AsyncAPI bets for a seamless API development experience.  Users should be able to create their first API within minutes without prior knowledge of AsyncAPI. It has to be natural, simple, intuitive. 
 ## Brands and companies using AsyncAPI
 
 The total number of companies and projects using AsyncAPI as well as their identity is impossible to know. So far, we are aware that the following ones operate with it.
 
 - [**Slack**](https://slack.com/signin): Business Communication Platform that permits to operate with multiple channels (public and private). It currently has more than 10 million daily active users worldwide. It was recently acquired by Salesforce.
-
 - [**Adidas**](https://www.adidas.com/us): Company dedicated to the manufacture of sports equipment and fashion products. It is the largest sportswear manufacturer in Europe, second largest in the world. This company has more than 150.000 sales outlets around the world.
-
 - [**Salesforce**](https://login.salesforce.com/?locale=es): Business consultancy company. It provides (CRM) service and other services. It manages from small businesses to FORTUNE 500 companies and it has more than 150.000 customers.
-
 - [**IBM**](https://www.ibm.com/): Company that manufactures and markets hardware and software. It has operations in over 170 countries and provides hosting and consulting services in many areas.
-
 - [**SAP**](https://www.sap.com/index.html): Company dedicated to the design of computer products for business management. Develops business software to manage operations and business-to-customer relationships. It’s a large company with 100,330 employees.
-
 - [**IQVIA**](https://www.iqvia.com/): Company providing services for the combined health information technology and clinical research industries. It employs more than 58.000 people in over 100 countries
 
 ## Funding
@@ -112,19 +99,12 @@ GitHub is a project management platform that also has the option to manage part 
 ## Contact details
 
 - **Press & communications info: press@asyncapi.io**
-
 - [**Twitter**](https://twitter.com/asyncapispec?lang=es): It's used for disseminating all the news and information regarding the project, but also for resolving user queries and sharing news of projects related to technology.
-
 - [**Slack workspace**](https://www.asyncapi.com/slack-invite): The main place of encounter for the whole community of AsyncAPI.
-
 - [**Newsletter**](https://www.asyncapi.com/subscribe/): To learn about the status of the project/news, actualizations, and recorded events and meetings.
-
 - [**Blog**](https://www.asyncapi.com/blog): It’s used to disseminate information related to the project. It's also open to collaborations.
-
 - [**Linkedin**](https://es.linkedin.com/company/asyncapi): It's used to publish news related to the project or its environment. It’s also used as a source of information.
-
 - [**YouTube Channel**](https://www.youtube.com/playlist?list=PLbi1gRlP7pijUwZJErzyYf_Rc-PWu4lXS): Where you can find conferences, AsyncAPI Open Meetings and much more.
-
 - [**GitHub**](https://github.com/asyncapi): Issues, for bugs and feature requests, pull requests (PRs) for fixes or new features already discussed, as per the contributing guidelines.
 
 - **AsyncAPI Open Meetings** (biweekly):
@@ -135,29 +115,18 @@ GitHub is a project management platform that also has the option to manage part 
 ## Frequently asked questions
 
 - **What is the goal of the project?**
-
 To make asynchronous APIs as successful and mature as REST APIs.
-
 - **What protocols does it support?**
-
 The latest version supports any protocol.
-
 - **Who are the users of AsyncAPI?**
-
 AsyncAPI users are mainly software developers of any application programming interface (API) that base their work on the asynchronous method. 
-
 - **What is the AsyncAPI Community?s**
-
 It’s the core of the initiative. The AsyncAPI community contributes to the development of the tool, it promotes access and distribution of the specification allowing freedom of use, study, copying, modification, and redistribution to anyone who wishes to do so. The cooperation between these people in all areas of software production generates a substantial improvement in the quality of the software, as well as greater dissemination and sustainability over time, and prioritizing the benefit of society over any other.
-
 - **Who can use it?** 
-
 Everyone who wants. It’s open to use and contribute. To use it, all you need is a device with an operating system and the latest version of AsyncAPI.
 
 - **Where can I find more information?** 
 
   - Website: <https://www.asyncapi.com/>
-
   - Talk by Fran Méndez, explaining the project: <https://www.youtube.com/watch?v=UID1nnuFDtM&list=PLbi1gRlP7piitNgvqhIAvGNZM_kvP0r8R>
-
   - AsyncAPI & Postman: https://blog.postman.com/asyncapi-joins-forces-with-postman-future-of-apis/
